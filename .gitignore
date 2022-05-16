@@ -1,0 +1,7 @@
+.venv/
+.idea/
+
+sample_data
+seaborn-data-master/png
+seaborn-data-master/raw
+seaborn-data-master/*.csv
